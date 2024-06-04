@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: mail-demo
+  mail:
+    host: host
+    port: 25
+    username: username
+    password: password
+
+maildemo:
+  from: from
+  to: to
+  subject: Hello World
+  text: ...
